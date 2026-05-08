@@ -1,0 +1,13 @@
+build/
+vcpkg/
+exercises/
+.vscode/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+coverage_html/
+__pycache__/
+*.pyc

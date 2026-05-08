@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "equalizer",
+  "version": "0.1.0",
+  "description": "Real-time spectral equalizer — educational C++20 project",
+  "builtin-baseline": "77826283b4676c526da3a5c59e6717e3775ba722",
+  "dependencies": [
+    "fftw3",
+    "portaudio",
+    "libsndfile"
+  ]
+}
