@@ -1,6 +1,6 @@
 # Spectral Equalizer
 
-A real-time spectral equalizer built with C++20 and Qt6.
+A Spectral equalizer built with C++20 and Qt6.
 
 Load a WAV file, select a region on the spectrogram, and modify its magnitude using the gain and brightness sliders. Play the original and modified audio to hear the difference.
 
