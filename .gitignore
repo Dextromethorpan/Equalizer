@@ -1,6 +1,7 @@
 build/
 vcpkg/
 exercises/
+tests/
 .vscode/
 *.exe
 *.obj
